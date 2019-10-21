@@ -186,7 +186,7 @@ paginate = 2
     linkColor = '' # header link color, leave empty for default
     backgroundColor = '' # header background color, leave empty for default
 
-    image = 'img/aikido-grip-circled2.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style. 
+    image = 'img/aikido-grip-circled.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style. 
     
     width = 2512 # Width of header image. Please set this value to the correct size, because it will be used for size calculation.
     height = 673 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
