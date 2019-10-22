@@ -39,7 +39,7 @@ function getValueByNameMap($form) {
 function submitMap(nameValueMap) {
     //console.log("submitting map: "+JSON.stringify(nameValueMap))
 
-    var postreq2mailUrl = "https://2snqm0sfhh.execute-api.eu-west-1.amazonaws.com/dev/postreq2mail"
+    var postreq2mailUrl = "https://2snqm0sfhh.execute-api.eu-west-1.amazonaws.com/live/postreq2mail"
     
     var xhr = new XMLHttpRequest()
     xhr.open('POST', postreq2mailUrl, true)
