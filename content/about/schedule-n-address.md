@@ -6,10 +6,10 @@ draft: false
 
 <div class="alert alert-danger alert-dismissible fade show">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <strong>Site Under Construction!</strong> Adress and Schedule are only placeholder and not real!
+  <strong>Site Under Construction!</strong> Address and Schedule are only placeholder and not real!
 </div>
 
-<h4 class="alert alert-info">Adress</h4>
+<h4 class="alert alert-info">Address</h4>
 
 <div class="overflow-hidden mb-5">
   <figure>
