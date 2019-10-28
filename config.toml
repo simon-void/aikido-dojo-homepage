@@ -78,10 +78,10 @@ theme = "tikva"
   url = "/categories/seminar/"
   weight = 50
 
-[[menu.main]]
-  name = "Blog"
-  url = "/categories/blog/"
-  weight = 60
+# [[menu.main]]
+#   name = "Blog"
+#   url = "/categories/blog/"
+#   weight = 60
 
 [[menu.main]]
     # parent = "about"
@@ -125,13 +125,13 @@ paginate = 2
 [params]
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     # favicon = 'img/favicon.ico' # Add favicon, default empty
-    subtitle = "Under Construction" #"Center & Extension"
+    subtitle = "Grace under Fire" #"Under Construction" #"Center & Extension"
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
     showNumberOfWords = false # true|false: Show number of word on article header of single content page
     hideMeta = false # Hide meta information on single pages
-    mainSections = ["news", "blog", "seminars"]
+    mainSections = ["news", "blog", "seminar"]
 
 
 # Navigation bar settings
