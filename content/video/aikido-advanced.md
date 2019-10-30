@@ -13,6 +13,9 @@ draft: false
 <h4>Kaeshi Waza - counter techniques</h4>
 {{< youtube QBQNjmFHUtQ >}} 
 
+<h4>Ikkyo and Aiki Ken - sword applications</h4>
+{{< youtube uR0Qg8GAaFA >}}
+
 <h4>Centering</h4>
 {{< youtube f_Zcb13Vwz4 >}}
 

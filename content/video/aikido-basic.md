@@ -4,11 +4,6 @@ date: 2019-10-14T21:37:38+01:00
 draft: false
 ---
 
-<h4>Ikkyo and Aiki Ken - sword applications</h4>
-{{< youtube uR0Qg8GAaFA >}}
-The part with swords is admittedly not a basic technique anymore.
-But the technique - Ikkyo - is the first fundamental technique of Aikido.
-
 <h4>Nikkyo</h4>
 {{< youtube RRJNv2fdxCc >}}
 

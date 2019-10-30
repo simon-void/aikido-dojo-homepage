@@ -97,7 +97,7 @@ theme = "tikva"
 
 
 [permalinks]
-  seminars = "/seminar/:year/:title/"
+  seminar = "/seminar/:year/:month/:title/"
   blog = "/blog/:year/:month/:title/"
   news = "/news/:year/:month/:title/"
 
@@ -311,7 +311,7 @@ paginate = 2
  
   [[params.sidebar.demoColumn]]
     title = 'Training'
-    text = '<p><h5>Adress:</h5>42 Made Up Rd<br>N0W ERE London</p> <p><h5>Schedule:</h5><table><tr><td>Tuesday</td><td>19:30-20:30</td></tr><tr><td>Thursday</td><td>19:30-20:30</td></tr><tr><td>Saturday</td><td>10:00-12:00</td></tr></table></p><p><h5>Opening:</h5>Soon! Late 2019 or early 2020. Feel free to use the contact form.</p>'
+    text = '<p><h5>Adress:</h5>42 Made Up Rd<br>N0W ERE London</p> <p><h5>Schedule:</h5><table><tr><td>Tuesday</td><td>19:30-20:30</td></tr><tr><td>Thursday</td><td>19:30-20:30</td></tr><tr><td>Saturday</td><td>10:00-12:00</td></tr></table></p><p><h5>Opening:</h5>Soon! Early 2020. Feel free to use the contact form.</p>'
 
   [[params.sidebar.demoColumn]]
   title = ''

@@ -1,5 +1,2 @@
-[Impressum](/about/impressum)
-<br>
-[Privacy Notice](/about/privacy-notice)
-
-
+<p><a href="/about/privacy-notice">Privacy Notice</a></p>
+<!-- <p><a href="/about/impressum">Impressum</a></p> -->
