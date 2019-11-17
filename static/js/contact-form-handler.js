@@ -39,32 +39,32 @@ function getValueByNameMap($form) {
 function submitMap(nameValueMap) {
     //console.log("submitting map: "+JSON.stringify(nameValueMap))
 
-    // var postreq2mailUrl = "https://2snqm0sfhh.execute-api.eu-west-1.amazonaws.com/live/postreq2mail"
+    var postreq2mailUrl = "https://2snqm0sfhh.execute-api.eu-west-1.amazonaws.com/live/postreq2mail"
     
-    // var xhr = new XMLHttpRequest()
-    // xhr.open('POST', postreq2mailUrl, true)
-    // xhr.onreadystatechange = function(event) {
-    //     if(xhr.readyState === 4) {
-    //         setStateIsSendingMessage(false)
+    var xhr = new XMLHttpRequest()
+    xhr.open('POST', postreq2mailUrl, true)
+    xhr.onreadystatechange = function(event) {
+        if(xhr.readyState === 4) {
+            setStateIsSendingMessage(false)
 
-    //         var responseStatus = xhr.status
-    //         if(responseStatus===200) {
-    //             var response = JSON.parse(event.target.response)
-    //             var wasSuccessful = response.wasSuccessful
-    //             var errorMessage = response.errorMessage
+            var responseStatus = xhr.status
+            if(responseStatus===200) {
+                var response = JSON.parse(event.target.response)
+                var wasSuccessful = response.wasSuccessful
+                var errorMessage = response.errorMessage
                 
-    //             displaySentContactMsgResult(wasSuccessful, errorMessage)
-    //         }else{
-    //             displaySentContactMsgResult(false, "resposeStatus: " + responseStatus)
-    //         }
-    //     }
-    // }
+                displaySentContactMsgResult(wasSuccessful, errorMessage)
+            }else{
+                displaySentContactMsgResult(false, "resposeStatus: " + responseStatus)
+            }
+        }
+    }
 
     setStateIsSendingMessage(true)
-    // xhr.send(new Blob([JSON.stringify(nameValueMap, null, 2)], {type : 'application/json'}))
-    setTimeout(function(){
-        setStateIsSendingMessage(false)
-    }, 1000)
+    xhr.send(new Blob([JSON.stringify(nameValueMap, null, 2)], {type : 'application/json'}))
+    // setTimeout(function(){
+    //     setStateIsSendingMessage(false)
+    // }, 1000)
 }
 
 function displaySentContactMsgResult(wasSuccessful, errorMessage) {
