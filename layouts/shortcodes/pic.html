@@ -1,6 +1,7 @@
 
 <!-- pic -->
-<img src="{{ .Get "src" }}" 
+<img src="{{ .Get "src" }}"
+     loading="lazy"
     {{ with .Get "id" }}id="{{.}}"{{ end }}
     {{ with .Get "class" }}class="{{.}}"{{ end }}
     {{ with .Get "height" }}height="{{.}}"{{ end }}
