@@ -159,7 +159,7 @@ paginate = 2
 
 [params.meta]
     description = "This is the homepage of my Aikido dojo in London"
-    keywords = "aikido, dojo"
+    keywords = "aikido, dojo, London"
     author = "Stephan Schroeder"
     "DC.Copyright" = "Stephan Schroeder"
     
