@@ -38,4 +38,4 @@ draft: false
 </table>
 
 <h4 class="alert alert-info">Opening</h4>
-Soon! Late 2019 or early 2020. If you have questions feel free to use the [contact form](/about/contact)
+Soon! Early 2020. If you have questions feel free to use the [contact form](/about/contact)
