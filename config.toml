@@ -1,6 +1,6 @@
 baseURL = "https://simon-void.github.io/"
 languageCode = "en-gb"
-title = "Flux Aikido"
+title = "Aikido"
 theme = "tikva"
 
 [[menu.main]]
@@ -125,7 +125,7 @@ paginate = 2
 [params]
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     # favicon = 'img/favicon.ico' # Add favicon, default empty
-    subtitle = "Grace under Fire" #"Under Construction" #"Center & Extension"
+    subtitle = "compassionate power" #"Under Construction" #"Center & Extension"
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
