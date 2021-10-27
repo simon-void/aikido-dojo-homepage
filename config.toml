@@ -317,3 +317,13 @@ paginate = 2
   title = ''
   text = '<div class="alert alert-warning"><p>UNDER CONSTRUCTION<p/>This site is not live yet. Consider all content as placeholder.<div/>'
 
+# Renderer settings
+
+# You need to tell the default Markdown renderer, which is Goldmark, to render raw HTML.
+# Else you'll get "raw HTML omitted" instead of your html.
+# See http://www.ii.com/hugo-tips-fragments/#_markup
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -270,17 +270,17 @@ body {
     {{ if or .Site.Params.Theme.Header.OverlayDistanceVertical .Site.Params.Theme.Header.OverlayDistanceHorizontal }}
     <style type="text/css">
         #site-header-container-overlay {
-        {{ if (eq .Site.Params.Theme.Header.OverlayAlignment "lt") or (eq .Site.Params.Theme.Header.OverlayAlignment "lb") }}
-            left: {{ .Site.Params.Theme.Header.OverlayDistanceHorizontal }}px;
-        {{ else if (eq .Site.Params.Theme.Header.OverlayAlignment "mt") or ( eq .Site.Params.Theme.Header.OverlayAlignment "mb") }}
-            
-        {{ else if (eq .Site.Params.Theme.Header.OverlayAlignment "rt") or ( eq .Site.Params.Theme.Header.OverlayAlignment "rb") }}
-            right: {{ .Site.Params.Theme.Header.OverlayDistanceHorizontal }}px;
+        {{ if or (eq .Site.Params.Theme.Header.OverlayAlignment "lt") (eq .Site.Params.Theme.Header.OverlayAlignment "lb") }}
+        left: {{ .Site.Params.Theme.Header.OverlayDistanceHorizontal }}px;
+        {{ else if or (eq .Site.Params.Theme.Header.OverlayAlignment "mt") ( eq .Site.Params.Theme.Header.OverlayAlignment "mb") }}
+
+        {{ else if or (eq .Site.Params.Theme.Header.OverlayAlignment "rt") ( eq .Site.Params.Theme.Header.OverlayAlignment "rb") }}
+        right: {{ .Site.Params.Theme.Header.OverlayDistanceHorizontal }}px;
         {{ end }}
-        {{ if (eq .Site.Params.Theme.Header.OverlayAlignment "lt") or (eq .Site.Params.Theme.Header.OverlayAlignment "mt") or (eq .Site.Params.Theme.Header.OverlayAlignment "rt") }}
-            top: {{ .Site.Params.Theme.Header.OverlayDistanceVertical }}px;
-        {{ else if ( eq .Site.Params.Theme.Header.OverlayAlignment "lb") or ( eq .Site.Params.Theme.Header.OverlayAlignment "mb") or ( eq .Site.Params.Theme.Header.OverlayAlignment "rb") }}
-            bottom: {{ .Site.Params.Theme.Header.OverlayDistanceVertical }}px;
+        {{ if or (eq .Site.Params.Theme.Header.OverlayAlignment "lt") (eq .Site.Params.Theme.Header.OverlayAlignment "mt") (eq .Site.Params.Theme.Header.OverlayAlignment "rt") }}
+        top: {{ .Site.Params.Theme.Header.OverlayDistanceVertical }}px;
+        {{ else if or ( eq .Site.Params.Theme.Header.OverlayAlignment "lb") ( eq .Site.Params.Theme.Header.OverlayAlignment "mb")  ( eq .Site.Params.Theme.Header.OverlayAlignment "rb") }}
+        bottom: {{ .Site.Params.Theme.Header.OverlayDistanceVertical }}px;
         {{ end }}
         }
     </style>
