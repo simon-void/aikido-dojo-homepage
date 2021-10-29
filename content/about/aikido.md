@@ -1,25 +1,32 @@
 ---
-title: "History"
+title: "Geschichte des Aikidos"
 date: 2019-10-10T19:04:46+02:00
 ---
 
 <div class="overflow-hidden mb-5">
-  {{< pic src="/img/aikido-kanji.svg" class="float-right mr-5 pr-1" height="300" alt="Aikido written in Kanji" >}}
+  {{< pic src="/img/aikido-kanji.svg" class="float-right mr-5 pr-1" height="300" alt="Aikido geschrieben in Kanji" >}}
   
   <h4 class="border-3">Aikido</h4>
 
-<p>is a relatively new martial art developed in Japan by Morihei Ueshiba over the course of his life. It's three kanji/letters can be translated as
-"the way of the harmonizing force". While basically all traditional martial arts have of moral dimension - including the imperative to not do harm (if possible) -
-this is at the front and center of Aikido. It is therefore more defensive in nature than other martial arts. It was mostly disseminated after the second World War
-by the first generation of students of the founder. Basically every of those early teachers gave his Aikido a personal spin while even the founder kept evolving his
-understanding of the art. Some teachers, and the organisations they founded, made it their goal to keep the original form alive, while other teachers where inspired to develop it according to their martial, artistic, religious or educational ideals. This development keeps going to the present day.</p>
-</div>
+<p>Kurzfassung: Aikido macht Spaß! Einfach mal ausprobieren.</p>
+
+<p>ist eine relativ neue Kampfkunst, die vom Japaner Morihei Ueshiba entwickelt wurde. Die drei Kanji/Schrifzeichen,
+mit den "Aikido" im Japanischen geschrieben wird, lassen sich als "Weg der sich anpassenden Kraft" übersetzen.
+Vermutlich besitzen alle traditionellen Kampfkünste eine moralische Dimension, die den Wunsch beinhaltet keinen (unnötigen)
+Schaden zu verursachen, bei Aikido steht dieser Wunsch allerdings noch einen Tick zentraler. Dies hat zur Folge, dass
+es in der Regel defensiver ausgeprägt ist als andere Kampfkünste. Während manche Lehrer Wert darauf legen, eine
+bestimmte historische Form dieser Kunst zu unterrichten, halten es andere für wichtig, ihre eigenen Erfahrungen, Ideen
+und Methoden einzubringen.</p>
 
 <div class="overflow-hidden mb-5">
-  {{< pic src="/img/morihei_ueshiba.jpg" class="float-right rounded-circle" height="300" alt="The founder of Aikido Morihei Ueshiba" >}}
+  {{< pic src="/img/morihei_ueshiba.jpg" class="float-right rounded-circle" height="300" alt="Der Begründer von Aikido, Morihei Ueshiba" >}}
   
-  <h4 class="border-3">Morihei Ueshiba, aka O'Sensei</h4>
+  <h4 class="border-3">Morihei Ueshiba</h4>
 
-<p>was the founder of Aikido. He lived from 1883 until 1969. Trained and highly proficient in the classical martial art of Daito Ryu (Aiki) Jujutsu,
-he became follower of a sect that advocated world peace. Subsequently he continued to develop his martial skills in a more and more defensive, or at least non-deadly, direction. To the end of his life it can be said that his practice became a purely spiritual embodyment of his peace-seeking religion.</p>
+<p>von seinen Schüler häufig O Sensei genannt, war der Begründer von Aikido. Er hat von 1883 bis 1969 gelebt.
+Nachdem er selbst ausgiebig die klassischen Kampfkunst Daito Ryu (Aiki) Jujutsu trainiert hat, trat er einer Sekte bei,
+die den Weltfrieden anstrebte. Aus diesem Konflikt zwischen zerstörerischem Potential und humanistischem Ideal entstand
+der Wunsch, die von ihm gelernte Kampfkunst in eine defensivere oder zumindest weniger destruktive Richtung zu entwickeln.
+Zum Ende seines Lebens hin hatte sich sein Training in eine rein spirituelle Verkörperung seines Wunsches nach Harmonie
+und Frieden gewandelt.</p>
 </div>

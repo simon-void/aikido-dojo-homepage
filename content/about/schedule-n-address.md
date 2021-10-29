@@ -1,15 +1,15 @@
 ---
-title: "Schedule & Address"
+title: "Zeitplan & Addresse"
 date: 2019-10-14T21:38:29+01:00
 draft: false
 ---
 
 <div class="alert alert-danger alert-dismissible fade show">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <strong>Site Under Construction!</strong> Address and Schedule are only placeholder and not real!
+  <strong>Site Under Construction!</strong>
 </div>
 
-<h4 class="alert alert-info">Address</h4>
+<h4 class="alert alert-info">Addresse</h4>
 
 <div class="overflow-hidden mb-5">
   <figure>
@@ -18,24 +18,25 @@ draft: false
         Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.
     </figcaption>
   </figure>
-  
-  42 Made Up Rd<br>
-  N0W ERE London
+
+  Alexandrinenstraße 30<br>
+  10969 Berlin
 </div>
 
-<h4 class="alert alert-info">Price</h4>
+<h4 class="alert alert-info">Preis</h4>
 <ul>
-  <li>first class is free</li>
-  <li>x$ per week</li>
-  <li>y$ per month</li>
+  <li>die erste Trainingswoche ist kostenlos</li>
+  <li>x$ per Training</li>
+  <li>y$ per Monat</li>
 </ul>
 
-<h4 class="alert alert-info">Schedule</h4>
+<h4 class="alert alert-info">Zeitplan</h4>
 <table>
-<tr><td>Tuesday</td><td>19:30-20:30</td></tr>
-<tr><td>Thursday</td><td>19:30-20:30</td></tr>
-<tr><td>Saturday</td><td>10:00-12:00</td></tr>
+<tr><td>Montag</td><td>18:00-19:30</td></tr>
+<tr><td>Mittwoch</td><td>18:00-19:30</td></tr>
+<tr><td>Samstag</td><td>11:00-12:30</td></tr>
 </table>
 
-<h4 class="alert alert-info">Opening</h4>
-Soon! Early 2020. If you have questions feel free to use the [contact form](/about/contact)
+<h4 class="alert alert-info">Eröffnung</h4>
+Das Training beginnt im Januar 2022.
+Falls sie weitere Fragen haben, so stellen Sie diese gerne im [Kontaktformular](/about/contact).

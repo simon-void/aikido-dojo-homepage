@@ -4,7 +4,7 @@ date: 2019-10-14T21:42:22+01:00
 draft: true
 ---
 
-site author:
-Stephan Schroeder
-55 St. Augustines Rd
-NW1 9RR London UK
+Seitenauthor:<br>
+Stephan Schröder<br>
+Lobitzweg 57<br>
+Köpenick<br>
