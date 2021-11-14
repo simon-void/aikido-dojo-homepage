@@ -1,24 +1,29 @@
 ---
-title: "Teachers"
+title: "Lehrer"
 date: 2019-10-13T18:40:41+01:00
 draft: false
 ---
 
 <div class="overflow-hidden mb-5">
-  {{< pic src="/img/schroeder.jpg" class="float-right rounded-circle" height="300" alt="Stephan Schroeder in aikido training suit holding a bokken" >}}
+  {{< pic src="/img/schroeder.jpg" class="float-right rounded-circle" height="300" alt="Stephan Schroeder im Aikido-Tainingsanzug ein Bokken haltend" >}}
   
-  <h4 class="border-3">Stephan Schroeder: 3rd Dan Aikikai </h4>
+  <h4 class="border-3">Stephan Schröder: 3ter Dan Aikikai </h4>
 
 <p>
-started with Aikido in 2003 while still at university and never stopped.
+hat im Jahr 2003 in Lübeck während des Studiums mit Aikido angefangen und nicht mehr damit aufgehört.
 </p><p>
-After finishing the university, he moved to Berlin where he continued his training in a dojo that was affiliated with Watanabe Nobuyuki, 8 Dan, (†2018)
-whose seminars Stephan visited for many years. The thing with Watanabe Sensei was that you probably didn't end up with concrete answers but with very interesting questions.
+Nach dem Studium zog er nach Berlin, wo er sein Training in
+einem Dojo weiterführte, dass indirekt
+Watanabe Nobuyuki, 8 Dan, (†2018) angeschlossen war.
+Ein interessanter Askept des Trainings bei Watanabe Sensei war es,
+dass man zwar keine konkreten Antworten aber ein paar sehr interessante Fragen bekam.
 </p><p>
-Around 2010 Stephan started visiting the seminars of Stefan Stenudd, by now 7 Dan, who Stephan got interested in after seeing one of his YouTube videos. Feeling more and
-more intrigued, Stephan moved to Malmö, Sweden, in 2012 in order to train in Stefan Stenudd's home dojo where he - in addition to his Aikido training - also started with Iaido which was taught by Stefan Stenudd as well. Even though Stephan had already received his first Dan before moving to Malmö he was, once having arrived, diagnosed with having <i>"no center whatsoever, none!!!"</i>.
-Luckily and to the relief of his new teacher, Stephan was able to overcome this predicament and even show traces of talent at times.
+Um 2010 herum began Stephan die Lehrgänge von Stefan Stenudd, inzwischen 7ter Dan, zu besuchen. Nachdem ihn Stefans Aikido
+mehr und mehr ansprach und neugirig machte, entschloß sich Stephan
+im Jahr 2012 nach Malmö zu ziehen, um dort in Stefan Stenudds
+Heimatdojo Aikido - und bei dieser Gelegenheit auch Iaido (Schwertkata) - zu trainieren.
 </p><p>
-Having moved to Sweden in order to learn the Aikido he was intrigued by, Stephan came after 6.5 years to the conclusion that he had gotten what he'd bargained for. After having been introduced to the basic and not so basic elements of Aikido, it's now time to refine those by teaching them to the next generation of Aikido students.
+Nach ungefähr 7 Jahren Training (und nachdem ein Umzug nach London in eine Sackgasse führte) entschloß sich Stephan zukünftig
+Aikido in Berlin zu unterrichten.
 </p>
 </div>

@@ -4,7 +4,7 @@ title = "Aikido"
 theme = "tikva"
 
 [[menu.main]]
-  name = "About"
+  name = "Über"
   identifier = "about"
   weight = 10
 
@@ -17,7 +17,7 @@ theme = "tikva"
 [[menu.main]]
     parent = "about"
     weight = 50
-    name = "Teacher(s)"
+    name = "Lehrer"
     url = "/about/teachers"
 
 [[menu.main]]
@@ -29,7 +29,7 @@ theme = "tikva"
 [[menu.main]]
     parent = "about"
     weight = 90
-    name = "Grading"
+    name = "Graduierung"
     url = "/about/grading"
     
 [[menu.main]]
@@ -52,29 +52,29 @@ theme = "tikva"
 [[menu.main]]
     parent = "videos"
     weight = 10
-    name = "Basic Techniques"
+    name = "Grundlegende Techniken"
     url = "/video/aikido-basic"
 
 [[menu.main]]
     parent = "videos"
     weight = 20
-    name = "Advanced Techniques"
+    name = "Fortgeschrittene Techniques"
     url = "/video/aikido-advanced"
 
 [[menu.main]]
     parent = "videos"
     weight = 30
-    name = "Attacks in Aikido"
+    name = "Angriffe im Aikido"
     url = "/video/aikido-attacks"
 
 [[menu.main]]
     parent = "videos"
     weight = 40
-    name = "Weapons in Aikido"
+    name = "Waffen im Aikido"
     url = "/video/aikido-weapons"
 
 [[menu.main]]
-  name = "Seminars"
+  name = "Lehrgänge"
   url = "/categories/seminar/"
   weight = 50
 
@@ -86,13 +86,13 @@ theme = "tikva"
 [[menu.main]]
     # parent = "about"
     weight = 115
-    name = "Schedule & Address"
+    name = "Zeitplan & Adresse"
     url = "/about/schedule-n-address"
 
 [[menu.main]]
     # parent = "about"
     weight = 120
-    name = "Contact"
+    name = "Kontakt"
     url = "/about/contact"
 
 
@@ -109,7 +109,7 @@ theme = "tikva"
 #  https://gohugo.io/content-management/multilingual/
 # There are only a few strings which need to be translated, feel free to add more
 # languages.
-DefaultContentLanguage = "en" # current values: "en" or "de"
+DefaultContentLanguage = "de" # current values: "en" or "de"
 
 # To enable a demo of pagination, this value is set to 2 instead of the default. See https://gohugo.io/getting-started/configuration/
 # for all site variables. The paginate default is 10

@@ -13,7 +13,7 @@ draft: false
 
 <div class="overflow-hidden mb-5">
   <figure>
-    <img src="/img/random-london.png" loading="lazy" class="float-right" width="70%"/>
+    <img src="/img/map/map-aikido-dojo-Alexandrinenstraße30.jpg" loading="lazy" class="float-right" width="70%"/>
     <figcaption class="float-right">
         Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.
     </figcaption>

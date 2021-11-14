@@ -1,5 +1,5 @@
 ---
-title: "Basic Techniques"
+title: "Grundlegende Techniken"
 date: 2019-10-14T21:37:38+01:00
 draft: false
 ---
@@ -31,7 +31,7 @@ draft: false
 <h4>Kokyuho</h4>
 {{< youtube eNktBj2hW88 >}}
 
-<h4>Ushiro - grips from behind</h4>
+<h4>Ushiro - Griffe von hinten</h4>
 {{< youtube mTYiovXrtzA >}}
 
 <h4>Suwari Kokyuho
