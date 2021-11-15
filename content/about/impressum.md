@@ -6,5 +6,5 @@ draft: true
 
 Seitenauthor:<br>
 Stephan Schröder<br>
-Lobitzweg 57<br>
-Köpenick<br>
+Bleicherstraße 7a<br>
+19089 Crivitz<br>

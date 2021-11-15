@@ -4,11 +4,6 @@ date: 2019-10-14T21:38:29+01:00
 draft: false
 ---
 
-<div class="alert alert-danger alert-dismissible fade show">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <strong>Site Under Construction!</strong>
-</div>
-
 <h4 class="alert alert-info">Addresse</h4>
 
 <div class="overflow-hidden mb-5">
@@ -19,8 +14,12 @@ draft: false
     </figcaption>
   </figure>
 
+  In den Räumen von Kung-Fu Kreuzberg
   Alexandrinenstraße 30<br>
-  10969 Berlin
+  10969 Berlin<br><br>
+  auf 
+  <a href="https://www.openstreetmap.org/node/2454158538#map=17/52.50327/13.40729" target="_blank">OpenStreetMap</a>
+  öffnen
 </div>
 
 <h4 class="alert alert-info">Preis</h4>

@@ -311,11 +311,11 @@ paginate = 2
  
   [[params.sidebar.demoColumn]]
     title = 'Training'
-    text = '<p><h5>Adress:</h5>42 Made Up Rd<br>N0W ERE London</p> <p><h5>Schedule:</h5><table><tr><td>Tuesday</td><td>19:30-20:30</td></tr><tr><td>Thursday</td><td>19:30-20:30</td></tr><tr><td>Saturday</td><td>10:00-12:00</td></tr></table></p><p><h5>Opening:</h5>Soon! Early 2020. Feel free to use the contact form.</p>'
+    text = '<p><h5>Adresse:</h5>Alexandrinenstraße 30<br>10969 Berlin</p> <p><h5>Zeitplan:</h5><table><tr><td>Montag</td><td>18:00-19:30</td></tr><tr><td>Mittwoch</td><td>18:00-19:30</td></tr><tr><td>Samstag</td><td>11:00-12:30</td></tr></table></p>'
 
   [[params.sidebar.demoColumn]]
   title = ''
-  text = '<div class="alert alert-warning"><p>UNDER CONSTRUCTION<p/>This site is not live yet. Consider all content as placeholder.<div/>'
+  text = '<div class="alert alert-warning"><p>Eröffnung<p/>Die erste Klasse wird am 3.1.2022 stattfinden.<div/>'
 
 # Renderer settings
 
