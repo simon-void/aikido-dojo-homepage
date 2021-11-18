@@ -14,7 +14,7 @@ draft: false
     </figcaption>
   </figure>
 
-  In den Räumen von Kung-Fu Kreuzberg
+  Das Flux Dojo befindet sich in den Räumen von Kung-Fu Kreuzberg
   Alexandrinenstraße 30<br>
   10969 Berlin<br><br>
   auf 
