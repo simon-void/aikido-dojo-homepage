@@ -23,4 +23,4 @@ manner which is aimed at experiencing - and learning to embody - the principles 
 Stephan is convinced that a life spent studying Aikido is a life well spent.</p>
 <p class="pb-3">You can find more information about him <a href="/about/teachers">here</a></p>
 
-<h3 class="alert alert-info mt-5 mb-3">Latest News</h3>
+<h3 class="alert alert-info mt-5 mb-3">Neuigkeiten</h3>
