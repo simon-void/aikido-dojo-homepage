@@ -8,7 +8,7 @@ draft: false
 <p>bzw dessen Ziel/Ideal, ist für jeden Langzeitstudierenden dieser Kampfkunst etwas anderes/persönliches. Der Lehrer diesen Dojos glaubt, dass das gewinnen eines Konfliktes häufig nur
 die zweitbeste Lösung ist. Und dass die idiale Lösung in einem Unentschieden liegt in dem
 alle Parteien ihre Selbstachtung behalten können. Dem Aikido, dass hier unterrichtet wird,
-liegt der Wunsch inne, dieses Ideal auch in der Realität erreichen zu können.</p>
+liegt der Wunsch inne, dieses Ideal auch dann noch umsetzen zu können, wenn man einem großen aggressiven Potential ausgesetzt ist.</p>
 <p class="pb-3">Mehr zum Ursprung des Aikidos findest du <a href="/about/aikido">hier</a>.</p>
 
 <h4 class="alert alert-info">Dieses Dojo</h4>
