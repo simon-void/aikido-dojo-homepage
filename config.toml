@@ -158,10 +158,10 @@ paginate = 2
 # The content will be included in the head of the site as: <meta name="_key_" content="_value_">.
 
 [params.meta]
-    description = "This is the homepage of my Aikido dojo in London"
-    keywords = "aikido, dojo, London"
-    author = "Stephan Schroeder"
-    "DC.Copyright" = "Stephan Schroeder"
+    description = "Aikido im Flux Dojo, Berlin Kreuzberg"
+    keywords = "Aikido, Dojo, Berlin, Kreuzberg"
+    author = "Stephan Schröder"
+    "DC.Copyright" = "Stephan Schröder"
     
 
 # Theme configuration
