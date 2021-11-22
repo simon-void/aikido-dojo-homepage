@@ -311,7 +311,7 @@ paginate = 2
  
   [[params.sidebar.demoColumn]]
     title = 'Training'
-    text = '<p><h5>Adresse:</h5>Alexandrinenstraße 30<br>10969 Berlin</p> <p><h5>Zeitplan:</h5><table><tr><td>Montag</td><td>18:00-19:30</td></tr><tr><td>Mittwoch</td><td>18:00-19:30</td></tr><tr><td>Samstag</td><td>11:00-12:30</td></tr></table></p>'
+    text = '<p><h5>Adresse:</h5>Alexandrinenstraße 30<br>10969 Berlin<br><a href="./about/schedule-n-address">Karte</a></p> <p><h5>Zeitplan:</h5><table><tr><td>Montag</td><td>18:00-19:30</td></tr><tr><td>Mittwoch</td><td>18:00-19:30</td></tr><tr><td>Samstag</td><td>11:00-12:30</td></tr></table></p>'
 
   [[params.sidebar.demoColumn]]
   title = ''
