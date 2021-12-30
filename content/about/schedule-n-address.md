@@ -37,5 +37,6 @@ draft: false
 </table>
 
 <h4 class="alert alert-info">Eröffnung</h4>
-Das Training beginnt im Januar 2022.
-Falls sie weitere Fragen haben, so stellen Sie diese gerne im [Kontaktformular](/about/contact).
+Das Training beginnt im Frühjahr 2022 (, sobald es der Pandemieverlauf wieder zuläßt).
+
+Falls sie weitere Fragen haben, so stellen Sie diese gerne im <a href="../contact">Kontaktformular</a>.
