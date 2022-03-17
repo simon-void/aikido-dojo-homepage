@@ -24,9 +24,8 @@ draft: false
 
 <h4 class="alert alert-info">Preis</h4>
 <ul>
-  <li>die erste Trainingswoche ist kostenlos</li>
-  <li>x$ per Training</li>
-  <li>y$ per Monat</li>
+  <li>die ersten drei Trainingswochen sind kostenlos</li>
+  <li>50€ per Monat</li>
 </ul>
 
 <h4 class="alert alert-info">Zeitplan</h4>
@@ -37,6 +36,5 @@ draft: false
 </table>
 
 <h4 class="alert alert-info">Eröffnung</h4>
-Das Training beginnt im Frühjahr 2022 (, sobald es der Pandemieverlauf wieder zuläßt).
-
+Das Training findet zur Zeit nur auf Anfrage statt, also bitte Bescheid sagen, wenn Sie vorbeikommen wollen.
 Falls sie weitere Fragen haben, so stellen Sie diese gerne im <a href="../contact">Kontaktformular</a>.
