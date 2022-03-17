@@ -316,7 +316,7 @@ paginate = 2
 
   [[params.sidebar.demoColumn]]
   title = ''
-  text = '<div class="alert alert-warning">Das Training findet zur Zeit nur bei Interesse statt, also bitte <b>Bescheid sagen</b> (siehe Kontakt), wenn Sie vorbeikommen wollen.<div/>'
+  text = '<div class="alert alert-warning">Das Training findet zur Zeit nur auf Nachfrage (aber dann regelmäßig) statt, also bitte <b>Bescheid sagen</b> (siehe Kontakt), wenn Sie vorbeikommen wollen.<div/>'
 
 # Renderer settings
 
