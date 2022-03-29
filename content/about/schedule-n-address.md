@@ -26,6 +26,7 @@ draft: false
 <ul>
   <li>die ersten drei Trainingswochen sind kostenlos</li>
   <li>50€ per Monat</li>
+  <li>if you fled the war in Ukraine, you can train for free. (but message me first to make sure the training takes place)</li>
 </ul>
 
 <h4 class="alert alert-info">Zeitplan</h4>
