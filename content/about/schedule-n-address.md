@@ -6,6 +6,8 @@ draft: false
 
 <h4 class="alert alert-info">Addresse</h4>
 
+Ich suche noch noch nach einem neuen Trainingsort. </br> Angedacht sind 3 Trainingseinheiten per Woche.
+<!--
 <div class="overflow-hidden mb-5">
   <figure>
     <img src="/img/map/map-aikido-dojo-Alexandrinenstraße30.jpg" loading="lazy" class="float-right" width="70%"/>
@@ -39,3 +41,4 @@ draft: false
 <h4 class="alert alert-info">Eröffnung</h4>
 Das Training findet zur Zeit nur auf Anfrage statt, also bitte Bescheid sagen, wenn Sie vorbeikommen wollen.
 Falls sie weitere Fragen haben, so stellen Sie diese gerne im <a href="../contact">Kontaktformular</a>.
+-->
