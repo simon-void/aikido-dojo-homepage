@@ -3,3 +3,4 @@ public/
 *.iml
 
 .hugo_build.lock
+flux.code-workspace
