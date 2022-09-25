@@ -1,5 +1,5 @@
-# baseURL = "https://flux-aikido-berlin.onrender.com/"
-baseURL = "https://flux-aikido.com/"
+baseURL = "https://flux-aikido-berlin.onrender.com/"
+# baseURL = "https://flux-aikido.com/"
 languageCode = "de-de"
 title = "Aikido"
 theme = "tikva"
