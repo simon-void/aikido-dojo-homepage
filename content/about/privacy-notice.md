@@ -10,11 +10,9 @@ Verantwortlich für Schulleitung, Unterricht und Website:
 
 Stephan Schröder
 
-Flux Dojo
+Dudenstraße 57
 
-Alexandrinenstr. 30
-
-10969 Berlin-Kreuzberg
+10965 Berlin-Tempelhof
 
 
 
