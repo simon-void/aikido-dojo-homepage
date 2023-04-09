@@ -6,5 +6,5 @@ draft: true
 
 Seitenauthor:<br>
 Stephan Schröder<br>
-Bleicherstraße 7a<br>
-19089 Crivitz<br>
+Dudenstraße 57<br>
+10965 Berlin<br>

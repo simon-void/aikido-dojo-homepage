@@ -127,7 +127,7 @@ paginate = 2
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     # favicon = 'img/favicon.ico' # Add favicon, default empty
 
-    subtitle = "besser als ein Sieg ist ein Unentschieden" # "mitfühlende Kraft"/"Center & Extension"/"compassionate power"
+    subtitle = "Wenn du ein Unentschieden anstrebst." # "mitfühlende Kraft"/"Center & Extension"/"compassionate power"
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
