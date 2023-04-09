@@ -11,4 +11,4 @@ Stefan Stenudd wird vom 2-4.6 ein Aikidolehrgang im Dojo in der Rheinstraße 45,
 Hier die Ausschreibung in [Deutsch](https://flux-aikido.com/pdf/2023_StefanStenuddBerlin_de.pdf)
 und in [Englisch](https://flux-aikido.com/pdf/2023_StefanStenuddBerlin_en.pdf).
 
-{{< pic src="/img/map/map-aikido-dojo-Rheinstr45.png" height="500" style="padding-bottom: 10px" alt="Karte von Steglitz mit dem Dojo Reihnstraße 45" >}}
+{{< pic src="/img/map/map-aikido-dojo-Rheinstr45.png" height="400" style="padding-bottom: 10px" alt="Karte von Steglitz mit dem Dojo Reihnstraße 45" >}}

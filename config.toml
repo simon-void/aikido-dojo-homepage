@@ -98,7 +98,7 @@ theme = "tikva"
 
 
 [permalinks]
-  seminar = "/seminar/:year/:month/:title/"
+  seminar = "/seminar/:year/:title/"
   blog = "/blog/:year/:month/:title/"
   news = "/news/:year/:month/:title/"
 
@@ -126,7 +126,8 @@ paginate = 2
 [params]
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     # favicon = 'img/favicon.ico' # Add favicon, default empty
-    subtitle = "mitfühlende Kraft" #"Center & Extension"/"compassionate power"
+
+    subtitle = "besser als ein Sieg ist ein Unentschieden" # "mitfühlende Kraft"/"Center & Extension"/"compassionate power"
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
@@ -199,7 +200,7 @@ paginate = 2
     overlayAlignment = 'lt' # lt = left/top, mt = middle/top, rt = right/top, lb = left/bottom, mb = middle/bottom, rb = right/bottom
     overlayDistanceVertical = '20' # Dependent on the overlayAlignment option, this option is used to modify the vertical distance between the margin and the title/subtitle. This allows to place the title and subtitle on nearly any place related to the header image. 
     overlayDistanceHorizontal = '20' # The same as above, but for horizontal distance. 
-    overlayDistanceBetween = '0' # Distance between title and subtitle 
+    overlayDistanceBetween = '160' # Distance between title and subtitle
     overlayBackgroundColor = '#ffffff'
     overlayTransparency = '0' # default 70%, allowed values from 0 - 100 (without % sign!). This option enables a transparent background of title and subtitle. This is useful if the "titleOnImage" option is true, so the title is placed as overlay above the image. If this option is set to 0 or an empty value, the transparency color setting will be disabled. 
 
