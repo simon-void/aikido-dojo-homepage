@@ -127,7 +127,7 @@ paginate = 2
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     # favicon = 'img/favicon.ico' # Add favicon, default empty
 
-    subtitle = "Wenn du ein Unentschieden anstrebst." # "mitfühlende Kraft"/"Center & Extension"/"compassionate power"
+    subtitle = "Wenn du im Konflikt ein Unentschieden anstrebst." # "mitfühlende Kraft"/"Center & Extension"/"compassionate power"
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
@@ -313,7 +313,7 @@ paginate = 2
  
   [[params.sidebar.demoColumn]]
     title = 'Training'
-    text = 'noch auf der Suche nach einem Trainingsort in Kreuzberg / Tempelhof / Schöneberg (oder nicht zu weit weg)' #'<p><h5>Adresse:</h5>Alexandrinenstraße 30<br>10969 Berlin<br><a href="./about/schedule-n-address">Karte</a></p> <p><h5>Zeitplan:</h5><table><tr><td>Montag</td><td>18:00-19:30</td></tr><tr><td>Mittwoch</td><td>18:00-19:30</td></tr><tr><td>Samstag</td><td>11:00-12:30</td></tr></table></p>'
+    text = 'beginnt, sobald die Matten eintreffen.' #'<p><h5>Adresse:</h5>Alexandrinenstraße 30<br>10969 Berlin<br><a href="./about/schedule-n-address">Karte</a></p> <p><h5>Zeitplan:</h5><table><tr><td>Montag</td><td>18:00-19:30</td></tr><tr><td>Mittwoch</td><td>18:00-19:30</td></tr><tr><td>Samstag</td><td>11:00-12:30</td></tr></table></p>'
 
 #  [[params.sidebar.demoColumn]]
 #  title = ''

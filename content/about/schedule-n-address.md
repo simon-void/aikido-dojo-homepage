@@ -6,39 +6,36 @@ draft: false
 
 <h4 class="alert alert-info">Addresse</h4>
 
-Ich suche noch noch nach einem neuen Trainingsort. </br> Angedacht sind 3 Trainingseinheiten per Woche.
-<!--
 <div class="overflow-hidden mb-5">
   <figure>
-    <img src="/img/map/map-aikido-dojo-Alexandrinenstraße30.jpg" loading="lazy" class="float-right" width="70%"/>
+    <img src="/img/map/dojo-location.jpg" loading="lazy" class="float-right" width="70%"/>
     <figcaption class="float-right">
         Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.
     </figcaption>
   </figure>
 
-  Das Flux Dojo befindet sich in den Räumen von Kung-Fu Kreuzberg
-  Alexandrinenstraße 30<br>
-  10969 Berlin<br><br>
+  Das Flux Dojo befindet sich in den Räumen von Ushiro-Karate
+  Wilhelm-Kabus-Straße 21-35<br>
+  10829 Berlin<br><br>
   auf 
-  <a href="https://www.openstreetmap.org/node/2454158538#map=17/52.50327/13.40729" target="_blank">OpenStreetMap</a>
+  <a href="https://www.openstreetmap.org/node/3028447197#map=16/52.4814/13.3782" target="_blank">OpenStreetMap</a>
   öffnen
 </div>
 
 <h4 class="alert alert-info">Preis</h4>
 <ul>
-  <li>die ersten drei Trainingswochen sind kostenlos</li>
-  <li>50€ per Monat</li>
-  <li>if you fled the war in Ukraine, you can train for free. (but message me first to make sure the training takes place)</li>
+  <li>die erste Trainingswoche ist kostenlos</li>
+  <li>10€ pro Einheit</li>
+  <li>oder 50€ per Monat</li>
 </ul>
 
 <h4 class="alert alert-info">Zeitplan</h4>
 <table>
-<tr><td>Montag</td><td>18:00-19:30</td></tr>
-<tr><td>Mittwoch</td><td>18:00-19:30</td></tr>
-<tr><td>Samstag</td><td>11:00-12:30</td></tr>
+<tr><td>Montag</td><td>19:00-21:00</td></tr>
+<tr><td>Donnerstag</td><td>19:00-21:00</td></tr>
+<tr><td>Freitag</td><td>19:00-21:00</td></tr>
 </table>
 
 <h4 class="alert alert-info">Eröffnung</h4>
-Das Training findet zur Zeit nur auf Anfrage statt, also bitte Bescheid sagen, wenn Sie vorbeikommen wollen.
-Falls sie weitere Fragen haben, so stellen Sie diese gerne im <a href="../contact">Kontaktformular</a>.
--->
+Das Training wird beginnen, sobald die Matten eingetroffen sind.
+Falls Sie weitere Fragen haben, so stellen Sie diese gerne im <a href="../contact">Kontaktformular</a>.
