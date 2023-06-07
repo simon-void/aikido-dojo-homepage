@@ -2,7 +2,7 @@
 title: "Stefan Stenudd in Berlin vom 2-4 Juni 2023"
 date: 2023-04-02T18:28:22+01:00
 categories: ["seminar"]
-expiryDate: 2024-01-01T23:59:59+01:00
+expiryDate: 2023-06-01T23:59:59+01:00
 draft: false
 ---
 
