@@ -4,7 +4,7 @@ date: 2019-10-14T21:38:29+01:00
 draft: false
 ---
 
-<h4 class="alert alert-info">Addresse</h4>
+<h4 class="alert alert-info">Adresse</h4>
 
 <div class="overflow-hidden mb-5">
   <figure>
@@ -38,4 +38,4 @@ draft: false
 
 <h4 class="alert alert-info">Eröffnung</h4>
 Das Training wird beginnen, sobald die Matten eingetroffen sind.
-Falls Sie weitere Fragen haben, so stellen Sie diese gerne im <a href="../contact">Kontaktformular</a>.
+Falls du weitere Fragen hast, so stelle mir diese gerne über das <a href="../contact">Kontaktformular</a>.
