@@ -312,8 +312,8 @@ paginate = 2
     style = 'right' # options: 'left', 'right'. Left means sidebar on the left side, right displays the sidebar on the right side
  
   [[params.sidebar.demoColumn]]
-    title = 'Training'
-    text = 'beginnt, sobald die Matten eintreffen. (August 2023)' #'<p><h5>Adresse:</h5>Alexandrinenstraße 30<br>10969 Berlin<br><a href="./about/schedule-n-address">Karte</a></p> <p><h5>Zeitplan:</h5><table><tr><td>Montag</td><td>18:00-19:30</td></tr><tr><td>Mittwoch</td><td>18:00-19:30</td></tr><tr><td>Samstag</td><td>11:00-12:30</td></tr></table></p>'
+    title = 'Das Training'
+    text = 'beginnt vorraussichtlich am Montag, dem 21.08.23.'
 
 #  [[params.sidebar.demoColumn]]
 #  title = ''

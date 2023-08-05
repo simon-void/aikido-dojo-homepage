@@ -18,7 +18,7 @@ draft: false
   Wilhelm-Kabus-Straße 21-35<br>
   10829 Berlin<br><br>
   auf 
-  <a href="https://www.openstreetmap.org/node/3028447197#map=16/52.4814/13.3782" target="_blank">OpenStreetMap</a>
+  <a href="https://www.google.com/maps/place/Flux+Aikido/@52.4822842,13.3654598,17z/data=!3m1!4b1!4m6!3m5!1s0x47a84f915a40cb01:0x5c50a918368a573e!8m2!3d52.482281!4d13.3680347!16s%2Fg%2F11rms4k9xl?entry=ttu" target="_blank">GoogleMaps</a>
   öffnen
 </div>
 
