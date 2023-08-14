@@ -127,7 +127,7 @@ paginate = 2
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     # favicon = 'img/favicon.ico' # Add favicon, default empty
 
-    subtitle = "Wenn du im Konflikt ein Unentschieden anstrebst." # "mitfühlende Kraft"/"Center & Extension"/"compassionate power"
+    subtitle = "Deeskalation in Bewegung" # "mitfühlende Kraft"/"Center & Extension"/"compassionate power"
 
     dateFormat = "02.01.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
@@ -309,11 +309,11 @@ paginate = 2
 
 [params.sidebar]
     enabled = true # default false; set to true to enable sidebar
-    style = 'right' # options: 'left', 'right'. Left means sidebar on the left side, right displays the sidebar on the right side
+    style = 'up' # options: 'up', 'down'. Up means sidebar on top of orticles, down displays the sidebar underneath
  
   [[params.sidebar.demoColumn]]
     title = 'Das Training'
-    text = 'beginnt vorraussichtlich am Montag, dem 21.08.23.'
+    text = 'beginnt am Montag, dem 21.08.23.'
 
 #  [[params.sidebar.demoColumn]]
 #  title = ''
