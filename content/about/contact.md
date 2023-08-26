@@ -3,12 +3,11 @@ title: "Kontakt"
 date: 2019-10-14T21:51:26+01:00
 draft: false
 ---
-
 <form class="mb-5" id="contact-form">
   <div class="form-group">
     <label for="senderEmailId" style="width: 400px">Email-Adresse</label>
     <input type="email" class="form-control" id="senderEmailId" placeholder="name@beispiel.de" name="senderEmail">
-    <small id="emailHelp" class="form-text text-muted">Wir werden diese Email-Adresse nicht an andere weitergeben.</small>
+    <small id="emailHelp" class="form-text text-muted">Email-Adresse werden nicht an andere weitergeben.</small>
   </div>
 
   <div class="form-group">
@@ -32,3 +31,4 @@ draft: false
     <button type="button" class="close" data-dismiss="alert">&times;</button>
 </div>
 
+oder Telefonnr: <a href="tel:00491795361357">01795361357</a>
