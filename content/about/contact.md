@@ -3,6 +3,11 @@ title: "Kontakt"
 date: 2019-10-14T21:51:26+01:00
 draft: false
 ---
+<div>
+    meine(/Stephans) Telefonnr: <a href="tel:00491795361357">01795361357</a> (auf für Signal/WhatsApp)
+    <br>oder schickt eine Nachricht hiermit:
+</div>
+
 <form class="mb-5" id="contact-form">
   <div class="form-group">
     <label for="senderEmailId" style="width: 400px">Email-Adresse</label>
@@ -30,5 +35,3 @@ draft: false
 <div class="alert alert-info alert-dismissible fade show">
     <button type="button" class="close" data-dismiss="alert">&times;</button>
 </div>
-
-oder Telefonnr: <a href="tel:00491795361357">01795361357</a>
