@@ -9,6 +9,11 @@ draft: false
   
   <h4 class="border-3">Stephan Schröder: 3ter Dan Aikikai </h4>
 
+<ul>
+    <li>1.ter Dan: Okt 2011</li>
+    <li>2.ter Dan: Dez 2013</li>
+    <li>3.ter Dan: Dez 2016</li>
+</ul>
 <p>
 Ich habe im Jahr 2003 in Lübeck während meines Studiums mit Aikido angefangen und nicht mehr damit aufgehört.
 </p><p>

@@ -4,6 +4,9 @@ date: 2019-10-10T19:04:46+02:00
 draft: false
 ---
 
+[//]: # (<h4 class="alert alert-info">Instagram</h4>)
+[//]: # (<p class="pb-3">Photos findest du <a href="https://www.instagram.com/zanshinnow/" target="_blank">hier</a>.</p>)
+
 <h4 class="alert alert-info">Aikido</h4>
 <p>ist eine relativ neue Kampfkunst mit traditionellen, japanischen Wurzeln.
 Im Training lernst du, mit den Kräften, die in einem Konflikt gegen dich gerichtet werden, umgehen zu können.
