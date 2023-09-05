@@ -36,6 +36,5 @@ draft: false
 <tr><td>Freitag</td><td>19:00-21:00</td></tr>
 </table>
 
-<h4 class="alert alert-info">Eröffnung</h4>
-Das Training wird beginnen, sobald die Matten eingetroffen sind.
-Falls du weitere Fragen hast, so stelle mir diese gerne über das <a href="../contact">Kontaktformular</a>.
+
+<br>
