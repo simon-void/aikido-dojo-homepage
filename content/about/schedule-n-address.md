@@ -36,5 +36,6 @@ draft: false
 <tr><td>Freitag</td><td>19:00-21:00</td></tr>
 </table>
 
-
-<br>
+<div class="alert alert-info alert-dismissible fade show mt-3">
+    <button type="button" class="close" data-dismiss="alert"></button>
+</div>

@@ -45,5 +45,5 @@ draft: false
 </form>
 
 <div class="alert alert-info alert-dismissible fade show">
-    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <button type="button" class="close" data-dismiss="alert"></button>
 </div>
