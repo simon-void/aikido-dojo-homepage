@@ -47,3 +47,5 @@ draft: false
 <div class="alert alert-info alert-dismissible fade show">
     <button type="button" class="close" data-dismiss="alert"></button>
 </div>
+
+<script type="text/javascript" src="/js/contact-form-handler.js"></script>
