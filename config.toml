@@ -308,12 +308,12 @@ paginate = 2
 # You can modify the style with a partial "sidebar_item.html", see example in "layouts/partials/".
 
 [params.sidebar]
-    enabled = false # default false; set to true to enable sidebar
+    enabled = true # default false; set to true to enable sidebar
     style = 'up' # options: 'up', 'down'. Up means sidebar on top of orticles, down displays the sidebar underneath
  
   [[params.sidebar.demoColumn]]
     title = 'Trainingsausfall'
-    text = 'Krankheitsbedingt findet bis einschließlich Freitag, dem 20.10.23, kein Training statt.'
+    text = 'Lehrgangsbedingt findet das Training erst wieder vom Freitag, dem 8.12., wieder statt.'
 
 #  [[params.sidebar.demoColumn]]
 #  title = ''
