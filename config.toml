@@ -313,7 +313,7 @@ paginate = 2
  
   [[params.sidebar.demoColumn]]
     title = 'Weihnachtspause'
-    text = 'das nächste Training findet am 4.01.2024 statt.'
+    text = 'das nächste Training findet am 8.01.2024 statt.'
 
 #  [[params.sidebar.demoColumn]]
 #  title = ''
