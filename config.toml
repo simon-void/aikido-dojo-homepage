@@ -188,10 +188,10 @@ paginate = 2
     linkColor = '' # header link color, leave empty for default
     backgroundColor = '' # header background color, leave empty for default
 
-    image = 'img/aikido-grip-circled2.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style.
+    image = 'img/aikido-examples_2x3-header.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style.
     
-    width = 2512 # Width of header image. Please set this value to the correct size, because it will be used for size calculation.
-    height = 673 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
+    width = 1024 # Width of header image. Please set this value to the correct size, because it will be used for size calculation.
+    height = 680 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
     altText = 'aikido grip' # Set alt text for header image, default empty
     displayHeaderText = true # display the title and subtitle - yes or no?
     titleOnImage = true # true|false, default false. Display title and subtitle as overlay in the foreground of the image. It is only possible to set the title as image overlay if an image is available. If no image is configured, the theme will do a fallback to non-overlay, i.e. title and subtitle will be displayed above the main navigation. 
@@ -308,7 +308,7 @@ paginate = 2
 # You can modify the style with a partial "sidebar_item.html", see example in "layouts/partials/".
 
 [params.sidebar]
-    enabled = true # default false; set to true to enable sidebar
+    enabled = false # default false; set to true to enable sidebar
     style = 'up' # options: 'up', 'down'. Up means sidebar on top of orticles, down displays the sidebar underneath
  
   [[params.sidebar.demoColumn]]

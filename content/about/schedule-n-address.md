@@ -35,9 +35,9 @@ draft: false
 
 <h4 class="alert alert-info">Zeitplan</h4>
 <table>
-<tr><td>Montag</td><td>19:00-21:00</td></tr>
-<tr><td>Donnerstag</td><td>19:00-21:00</td></tr>
-<tr><td>Freitag</td><td>19:00-21:00</td></tr>
+<tr><td>Montag</td><td>19:00-20:30</td></tr>
+<tr><td>Donnerstag</td><td>19:00-20:30</td></tr>
+<tr><td>Freitag</td><td>19:00-20:30</td></tr>
 </table>
 Sagt bitte vor dem Vorbeikommen <a href="/about/contact">Bescheid</a>.
 
