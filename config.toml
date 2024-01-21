@@ -74,10 +74,10 @@ theme = "tikva"
     name = "Waffen im Aikido"
     url = "/video/aikido-weapons"
 
-#[[menu.main]]
-#  name = "Lehrgänge"
-#  url = "/categories/seminar/"
-#  weight = 50
+[[menu.main]]
+  name = "Lehrgänge"
+  url = "/categories/seminar/"
+  weight = 50
 
 # [[menu.main]]
 #   name = "Blog"
@@ -192,7 +192,7 @@ paginate = 2
     
     width = 1024 # Width of header image. Please set this value to the correct size, because it will be used for size calculation.
     height = 680 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
-    altText = 'aikido grip' # Set alt text for header image, default empty
+    altText = 'several pictures of teacher doing aikido' # Set alt text for header image, default empty
     displayHeaderText = true # display the title and subtitle - yes or no?
     titleOnImage = true # true|false, default false. Display title and subtitle as overlay in the foreground of the image. It is only possible to set the title as image overlay if an image is available. If no image is configured, the theme will do a fallback to non-overlay, i.e. title and subtitle will be displayed above the main navigation. 
     fontColorTitle = '#2c3e50' # For all colors, please use #rrggbb format with # and 6 characters
