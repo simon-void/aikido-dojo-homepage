@@ -84,11 +84,11 @@ theme = "tikva"
 #   url = "/categories/blog/"
 #   weight = 60
 
-[[menu.main]]
-    # parent = "about"
-    weight = 115
-    name = "Zeitplan & Adresse"
-    url = "/about/schedule-n-address"
+#[[menu.main]]
+#    # parent = "about"
+#    weight = 115
+#    name = "Zeitplan & Adresse"
+#    url = "/about/schedule-n-address"
 
 [[menu.main]]
     # parent = "about"
@@ -308,12 +308,12 @@ paginate = 2
 # You can modify the style with a partial "sidebar_item.html", see example in "layouts/partials/".
 
 [params.sidebar]
-    enabled = false # default false; set to true to enable sidebar
+    enabled = true # default false; set to true to enable sidebar
     style = 'up' # options: 'up', 'down'. Up means sidebar on top of orticles, down displays the sidebar underneath
  
   [[params.sidebar.demoColumn]]
-    title = 'kein Training'
-    text = 'wegen Urlaub, das nächste Training findet am 15.02.2024 statt.'
+    title = 'zur Zeit kein Training'
+    text = 'da kein Trainingsort vorhanden. Bei Interesse bitte melden.'
 
 #  [[params.sidebar.demoColumn]]
 #  title = ''

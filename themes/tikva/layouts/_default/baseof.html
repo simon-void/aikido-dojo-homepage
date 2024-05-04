@@ -39,7 +39,6 @@
     {{- if .Site.Params.Analytics.Matomo.Enabled -}}
     {{ partial "analytics/matomo.html" . }}
     {{- end -}}
-{{ template "_internal/google_analytics_async.html" . }}
 {{- if .Site.Params.Analytics.Yandexmetrica.Enabled -}}
     {{ partial "analytics/yandexmetrica.html" . }}
 {{- end -}}
