@@ -15,7 +15,6 @@ draft: false
 [//]: # (</div>)
 
 <ul>
-  <li><a href="/about/teachers/">meine</a> Telefonnr: <a href="tel:00491795361357">01795361357</a> (auch für Signal/WhatsApp)</li>
   <li>Email-Adresse: <a href="mailto:contact@flux-aikido.com">contact@flux-aikido.com</a></li>
   <li>Email direkt:</li>
 </ul>

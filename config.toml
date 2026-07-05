@@ -313,7 +313,7 @@ paginate = 2
  
   [[params.sidebar.demoColumn]]
     title = 'zur Zeit kein Training'
-    text = 'da kein Trainingsort vorhanden. Bei Interesse bitte melden.'
+    text = 'da kein Trainingsort vorhanden.'
 
 #  [[params.sidebar.demoColumn]]
 #  title = ''
