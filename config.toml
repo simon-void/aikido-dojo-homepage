@@ -90,11 +90,11 @@ theme = "tikva"
 #    name = "Zeitplan & Adresse"
 #    url = "/about/schedule-n-address"
 
-#[[menu.main]]
-#    # parent = "about"
-#    weight = 120
-#    name = "Kontakt"
-#    url = "/about/contact"
+[[menu.main]]
+    # parent = "about"
+    weight = 120
+    name = "Kontakt"
+    url = "/about/contact"
 
 
 [permalinks]
